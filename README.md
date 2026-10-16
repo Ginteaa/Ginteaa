@@ -69,18 +69,6 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 
 ---
 
-## 🎓 University Notes
-
-Study material written in **LaTeX** and **MATLAB** for my courses:
-
-- **Calcolatori Elettronici** — kernel programming, virtual memory, IPC, x86-64 assembly
-- **Reti Logiche** — digital logic, a 16-bit processor in Verilog
-- **Calcolo Numerico** — numerical methods in MATLAB
-- **Fondamenti di Automatica** — control systems
-- **Ricerca Operativa** — linear programming
-
----
-
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GInteaa)
