@@ -61,9 +61,9 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 
 | Project | Description | Status |
 |---|---|---|
-| 🧠 **RISC-V CPU** | RISC-V processor in Verilog, simulated with Icarus Verilog + GTKWave, synthesized with Yosys, targeting a Tang Nano 9K FPGA | 🟡 In progress |
 | 🏠 **Homelab** | Proxmox VE with LXC containers: Immich, Vaultwarden, paperless-ngx, Pi-hole, remote access over a private VPN mesh | 🟢 Running |
 | 🎮 **Web Game** | Browser game in JavaScript (Canvas), PHP, HTML and CSS, with LaTeX documentation of its internal logic | 🟢 Done |
+| 🧠 **RISC-V CPU** | RISC-V processor in Verilog, simulated with Icarus Verilog + GTKWave, synthesized with Yosys, targeting a Tang Nano 9K FPGA | ⚪ Planned |
 | ⚙️ **STM32 RTOS** | Real-time operating system written from scratch for ARM Cortex-M | ⚪ Planned |
 | 🤖 **Self-balancing robot** | ESP32 + FreeRTOS robot, built with friends | ⚪ Planned |
 
@@ -72,5 +72,5 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GInteaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-interrante-460b87354/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuele.interrante1512@gmail.com)
