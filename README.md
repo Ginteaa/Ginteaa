@@ -2,11 +2,10 @@
 
 ## 💫 About Me
 
-I'm a **Computer Engineering** student (B.Sc., 2nd year) at the **University of Pisa**.
+I'm a **Computer Engineering** student (B.Sc., 3nd year) at the **University of Pisa**.
 I love working close to the hardware: from digital logic and CPU microarchitecture to kernels, RTOS and embedded systems.
 
 - 🔬 **Interests:** computer architecture, embedded systems, operating systems, cybersecurity
-- 🛠️ **Currently building:** a RISC-V CPU in Verilog, targeting an FPGA
 - 🏠 **Homelab:** Proxmox cluster running self-hosted services (Immich, Vaultwarden, paperless-ngx, Pi-hole)
 - 🐧 Daily driver: **CachyOS** + **Niri**, editing everything in **Neovim**
 
