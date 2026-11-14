@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm a **Computer Engineering** student (B.Sc., 3nd year) at the **University of Pisa**.
+I'm a **Computer Engineering** student (B.Sc., 3rd year) at the **University of Pisa**.
 I love working close to the hardware: from digital logic and CPU microarchitecture to kernels, RTOS and embedded systems.
 
 - 🔬 **Interests:** computer architecture, embedded systems, operating systems, cybersecurity
@@ -38,6 +38,9 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 ![Arch Linux](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SDL3](https://img.shields.io/badge/SDL3-1D4F91?style=for-the-badge&logoColor=white)
+![Flatpak](https://img.shields.io/badge/Flatpak-4A90D9?style=for-the-badge&logo=flatpak&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
@@ -49,6 +52,7 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 
 | Project | Description | Status |
 |---|---|---|
+| ⏰ **[Ribalta](https://github.com/Ginteaa/Ribalta)** | Flip clock and study timer for Linux (Wayland/X11) in C17 + SDL3: Pomodoro, study statistics, custom digit colour and font. Event-driven, ~18 MB of RAM and ~0% CPU when idle; native build or Flatpak, CI on GitHub Actions | 🟢 Active |
 | 🏠 **Homelab** | Proxmox VE with LXC containers: Immich, Vaultwarden, paperless-ngx, Pi-hole, remote access over a private VPN mesh | 🟢 Running |
 | 🎮 **Web Game** | Browser game in JavaScript (Canvas), PHP, HTML and CSS, with LaTeX documentation of its internal logic | 🟢 Done |
 | 🧠 **RISC-V CPU** | RISC-V processor in Verilog, simulated with Icarus Verilog + GTKWave, synthesized with Yosys, targeting a Tang Nano 9K FPGA | ⚪ Planned |
