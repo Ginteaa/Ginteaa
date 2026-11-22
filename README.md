@@ -25,14 +25,6 @@ I love working close to the hardware: from digital logic and CPU microarchitectu
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-**Hardware & Embedded**
-
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=F9B21D)
-![FPGA](https://img.shields.io/badge/FPGA-005C8A?style=for-the-badge&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-5BB045?style=for-the-badge&logoColor=white)
-
 **Tools & Infrastructure**
 
 ![Arch Linux](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
